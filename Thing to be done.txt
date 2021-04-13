@@ -1,6 +1,6 @@
 // 1 - Build Outer Screen
 // 2 - Add buttons like File, Edit, Format, View, About us.
-//4 - See how to change scrollbar and viewport.
-3 - Implement Font Change
-5 - Implement Dark and Light Theme
+// 3 - Implement Font Change
+// 4 - See how to change scrollbar and viewport.
+// 5 - Implement Dark and Light Theme
 6 - 
